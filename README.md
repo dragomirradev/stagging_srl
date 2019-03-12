@@ -57,7 +57,7 @@ If you use this tool for your research, please consider citing:
 ```
 @InProceedings{Kasai&al.19,
   author =  {Jungo Kasai and Dan Friedman and Robert Frank and Dragomir Radev and Owen Rambow},
-  title =   {Syntax-aware Semantic Role Labeling with Supertags},
+  title =   {Syntax-aware Neural Semantic Role Labeling with Supertags},
   year =    {2019},  
   booktitle =   {Proc.\ of NAACL},  
   publisher =   {Association for Computational Linguistics},
